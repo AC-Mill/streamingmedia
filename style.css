@@ -6,7 +6,7 @@ html {
 body {
     width: 375px;
     margin: 0 auto;
-    font-family: 'Raleway', Optima, sans-serif;
+    font-family: 'raleway', Optima, sans-serif;
     background-color: #ffffff; 
     
 }
@@ -40,7 +40,7 @@ dl{
     color: #590242;
 }
 dd{
-    font-family: 'Raleway', Optima, sans-serif;
+    font-family: raleway, Optima, sans-serif;
 }
 dt{
     font-weight:lighter;
@@ -54,7 +54,7 @@ footer{
     padding-bottom: 1px;
 }
 .more {
-    font-family: 'Raleway Bold', Optima, sans-serif;
+    font-family: raleway, Optima, sans-serif;
     font-weight: bold;
     text-decoration: none;
     background-color: #590242;
@@ -107,6 +107,7 @@ li a {
 }
 [href="#home"] {
     text-transform: capitalize;
+    font-family: raleway;
     font-variant: small-caps;
     font-weight: bold;
     font-size: 30px;
