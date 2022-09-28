@@ -40,7 +40,7 @@ dl{
     color: #590242;
 }
 dd{
-    font-family: raleway, Optima, sans-serif;
+    font-family: 'raleway', Optima, sans-serif;
 }
 dt{
     font-weight:lighter;
@@ -54,7 +54,7 @@ footer{
     padding-bottom: 1px;
 }
 .more {
-    font-family: raleway, Optima, sans-serif;
+    font-family: 'raleway', Optima, sans-serif;
     font-weight: bold;
     text-decoration: none;
     background-color: #590242;
