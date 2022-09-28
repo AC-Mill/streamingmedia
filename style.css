@@ -327,15 +327,15 @@ audio::-webkit-media-controls-enclosure {
         width: 417px;
         grid-column: 2/3;
     }
-    #playlists section, #curated section { 
-        height: 120px;
-        width: 360px;
-        text-align: center;
-    }
     #playlists img, #curated img {
         float: left;
         margin-right: 10px;
         padding-bottom:10px;
+    }
+    #playlists section, #curated section { 
+        height: 120px;
+        width: 360px;
+        text-align: center;
     }
     #playlists p, #curated p {
         position: absolute;
