@@ -316,6 +316,7 @@ audio::-webkit-media-controls-enclosure {
         margin-left: 25px;
     }
     #trending {
+        width: 834px;
         grid-column: 1/3;
     }
     #playlists { 
