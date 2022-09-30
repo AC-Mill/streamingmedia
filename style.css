@@ -342,7 +342,6 @@ audio::-webkit-media-controls-enclosure {
         position: absolute;
         top: 40px;
         left: 165px;
-        padding-right: 12px;
     }
     #playlists .scroll, #curated .scroll {
         overflow-x: hidden;
